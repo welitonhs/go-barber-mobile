@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": "stc",
+    "baseUrl": "src",
     "paths": {
       "~/*": ["*"]
     }
